@@ -29,6 +29,7 @@
                                 <li>Programming with stream transformations, instead of objects and methods-say hello to beautiful functional designs with well defined state and side-effects. Replace boring UML diagrams with fun marble diagrams</li>
 
                                 <li>Stop writing and rewriting retry, timeout, throttle, buffer, window, counters, caching, and aggregate functions for each project. Instead create your processes as observables, then enjoy a rich library of existing operators</li>
+                            </ul>
 
                             <h3>Perl Mongers</h3>
                             <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
